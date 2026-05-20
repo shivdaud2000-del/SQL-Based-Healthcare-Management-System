@@ -1,4 +1,4 @@
-# 🏥 SQL-Based Healthcare Management System using MySQL
+# 🏥 SQL-Based Healthcare Management System 
 
 ## 📌 Project Overview
 The Healthcare Management System is a SQL-based database project designed to efficiently manage hospital operations and healthcare records. The system organizes and analyzes data related to patients, doctors, appointments, treatments, and billing using MySQL.
